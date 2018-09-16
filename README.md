@@ -161,6 +161,8 @@ render() {
 
  yarn
 
+ npm run css
+
  react-native run-ios
 ```
 
