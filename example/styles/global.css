@@ -1,0 +1,75 @@
+/**
+ * global.css
+ */
+
+.container {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: #F5FCFF;
+}
+
+.welcome {
+    font-size: 20;
+    text-align: center;
+    margin: 10;
+}
+
+.instructions{
+    text-align: center;
+    color: #333;
+    margin-bottom: 5;
+}
+
+.my-info{
+    color: red;
+    font-size: 40px;
+}
+
+.circle{
+    height: 80;
+    width: 80;
+    border: solid 1px red;
+    border-radius: 40;
+    background-color: aqua;
+}
+
+/* 支持的属性 */
+.support {
+    height: 40px;
+    height: 100%;
+
+    border: solid hairlineWidth #fff;
+    border-top: solid 1px #fff;
+    border-bottom-width: 1px;
+
+    margin: 3px;
+    margin: 3px 5px;
+    margin: 3px 5px 5px;
+    margin: 3px 5px 5px 5px;
+    margin-top: 30px;
+
+    padding: 3px;
+    padding: 3px 5px;
+    padding: 3px 5px 5px;
+    padding: 3px 5px 5px 5px;
+
+    border: solid 3px #fff;
+    border-top: dashed 3px #fff;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+
+    text-align: center;
+
+    transform: translate3d(2px, 3px, 5px) rotate(30deg);
+}

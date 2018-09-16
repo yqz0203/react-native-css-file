@@ -1,0 +1,33 @@
+{
+  "name": "react-native-trans-css",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rncss": "./cli.js"
+  },
+  "author": "yqz0203<yqz0203@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yqz0203/react-native-trans-css"
+  },
+  "devDependencies": {
+    "chokidar": "^2.0.4",
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "eslint": "^5.5.0",
+    "jest": "^23.6.0",
+    "yargs": "^12.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
