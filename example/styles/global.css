@@ -29,8 +29,8 @@
 .circle{
     height: 80;
     width: 80;
-    border: solid 1px red;
-    border-radius: 40;
+    border: solid 2px blue;
+    border-radius: 40px;
     background-color: aqua;
 }
 

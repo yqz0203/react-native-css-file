@@ -1,5 +1,5 @@
 {
-  "name": "react-native-trans-css",
+  "name": "react-native-css",
   "version": "0.0.0",
   "description": "",
   "main": "src/api.js",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yqz0203/react-native-trans-css"
+    "url": "https://github.com/yqz0203/react-native-css"
   },
   "devDependencies": {
     "chokidar": "^2.0.4",
