@@ -155,9 +155,9 @@ render() {
 ## 示例
 
 ``` bash
- git clone https://github.com/yqz0203/react-native-trans-css.git`
+ git clone https://github.com/yqz0203/react-native-css-file.git`
 
- cd ./react-native-trans-css/example
+ cd ./react-native-css-file/example
 
  yarn
 
