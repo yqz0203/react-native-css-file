@@ -1,4 +1,4 @@
-# react-native-trans-css
+# react-native-css-file
 
 🚄🚄使用css文件书写react-native的样式
 
@@ -67,7 +67,7 @@ const styles = require('./styles/global').build();
 
 ## 安装
 
-`npm install react-native-trans-css`
+`npm install react-native-css-file`
 
 ## 使用
 
