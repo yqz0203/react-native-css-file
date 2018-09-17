@@ -135,7 +135,7 @@ render() {
 }
 
 .border {
-  height: hariline;
+  height: hairlineWidth;
 }
 ```
 
@@ -150,7 +150,7 @@ render() {
 
 预制的变量有:
 
-- hairline StylesSheet.hairlineWidth
+- hairlineWidth StylesSheet.hairlineWidth
 
 ## 示例
 
