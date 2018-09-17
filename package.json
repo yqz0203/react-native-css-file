@@ -16,14 +16,14 @@
     "url": "https://github.com/yqz0203/react-native-css"
   },
   "devDependencies": {
-    "chokidar": "^2.0.4",
+    "eslint": "^5.5.0",
+    "jest": "^23.6.0",
     "cz-conventional-changelog": "^2.1.0"
   },
   "dependencies": {
     "chalk": "^2.4.1",
-    "eslint": "^5.5.0",
-    "jest": "^23.6.0",
-    "yargs": "^12.0.2"
+    "yargs": "^12.0.2",
+    "chokidar": "^2.0.4"
   },
   "config": {
     "commitizen": {
