@@ -158,7 +158,7 @@ function transformStyles(tree) {
       let childStyles = {};
       child.children.forEach((subChild) => {
         const attr = css2RNName(subChild.value[0]);
-        const value = css2RNName(subChild.value[1]);
+        const value = subChild.value[1];
 
         // 转换border
         if (/^border/.test(attr)) {
