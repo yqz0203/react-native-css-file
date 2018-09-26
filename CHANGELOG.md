@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.0.6"></a>
+## [0.0.6](https://github.com/yqz0203/react-native-css/compare/v0.0.5...v0.0.6) (2018-09-26)
+
+
+### Bug Fixes
+
+* 修复hairlineWidth在border属性无法识别的问题 ([8c9f583](https://github.com/yqz0203/react-native-css/commit/8c9f583))
+
+
+
 <a name="0.0.5"></a>
 ## [0.0.5](https://github.com/yqz0203/react-native-css/compare/v0.0.4...v0.0.5) (2018-09-17)
 
