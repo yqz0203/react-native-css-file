@@ -5,7 +5,7 @@
 
 const isNumber = (val) => !isNaN(Number(val));
 
-const isNumberValue = (val) => isNumber(val);
+const isNumberValue = (val) => isNumber(val) || val === 'hairlineWidth';
 
 const tryConvertNumber = (val = '') => {
   val = val.replace(/px/gi, '');

@@ -40,7 +40,7 @@
     height: 100%;
 
     border: solid hairlineWidth #fff;
-    border-top: solid 1px #fff;
+    border-top: solid hairlineWidth #fff;
     border-bottom-width: 1px;
 
     margin: 3px;
@@ -53,9 +53,6 @@
     padding: 3px 5px;
     padding: 3px 5px 5px;
     padding: 3px 5px 5px 5px;
-
-    border: solid 3px #fff;
-    border-top: dashed 3px #fff;
 
     position: absolute;
     top: 0;
